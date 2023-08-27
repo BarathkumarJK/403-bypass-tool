@@ -15,10 +15,9 @@ You can install the required libraries using `pip`:
 pip install requests pyfiglet
 ```
 **Usage**
-
-    1. Run the script and it will prompt you to enter the target URL.
-    2. The script will then test different HTTP methods (GET, POST, HEAD, PUT, DELETE, PATCH) and display the status codes for each request.
-    3. Next, the script will use various payloads to attempt bypassing the 403 Forbidden error. It will display the status codes for each URL formed with different payloads.
+1. Run the script and it will prompt you to enter the target URL.
+2. The script will then test different HTTP methods (GET, POST, HEAD, PUT, DELETE, PATCH) and display the status codes for each request.
+3. Next, the script will use various payloads to attempt bypassing the 403 Forbidden error. It will display the status codes for each URL formed with different payloads.
 
 **Example**
 ```
