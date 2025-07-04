@@ -1,5 +1,5 @@
 # 403 Bypass Tool
-### Description
+### Description 
 
 The 403 Bypass Tool is a Python script that helps you test different HTTP methods and payloads to potentially bypass the 403 Forbidden error on a target URL. The script uses the requests library to send various HTTP `requests` and checks the status codes to see if any of them can bypass the restriction.
 
